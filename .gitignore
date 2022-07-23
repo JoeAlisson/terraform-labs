@@ -1,0 +1,6 @@
+/digital-ocean/k8s/.terraform/
+/digital-ocean/k8s/.terraform.lock.hcl
+/digital-ocean/k8s/terraform.tfvars
+/digital-ocean/k8s/terraform.tfstate
+/digital-ocean/k8s/terraform.tfstate.backup
+/digital-ocean/k8s/.terraform.tfstate.lock.info
